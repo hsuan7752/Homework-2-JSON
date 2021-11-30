@@ -1,0 +1,24 @@
+{
+    "Items": [
+        {
+            "player1Name": "123",
+            "player2Name": "456",
+            "score": 10
+        },
+        {
+            "player1Name": "456",
+            "player2Name": "123",
+            "score": 20
+        },
+        {
+            "player1Name": "123",
+            "player2Name": "456",
+            "score": 10
+        },
+        {
+            "player1Name": "456",
+            "player2Name": "123",
+            "score": 20
+        }
+    ]
+}
